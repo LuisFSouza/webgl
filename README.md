@@ -23,5 +23,7 @@ O objeto centralizado é uma espécie de cubo, onde em cada face desse cubo há 
 que gira em torno dele é uma pirâmide de base hexagonal. 
 Ambos os objetos contém uma animação de expansão e contração em suas faces, e possuem refletância vinda do Phong shading.
 
+![fototrab](https://github.com/user-attachments/assets/74220a84-94d7-49a1-8ad8-4de460721279)
+
 ## Referências 
 Para o desenvolvimento deste projeto, utilizamos como base a seguinte playlist: [Playlist](https://www.youtube.com/watch?v=kB0ZVUrI4Aw&list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt)
